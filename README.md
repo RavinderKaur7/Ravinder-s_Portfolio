@@ -8,6 +8,7 @@ I am also adding some of projects that I have worked on in this portfolio.
 In this project I have worked with Food Mart store dataset to provide meaningful insights which will help store to increase their sales in particular region of a particular prodcuct.
 I have used Power BI tool to do ETL, Data cleaning, analyzing sales data, Data visaulization.
 Skills : ETL, Measures, DAX, KPI, Data Visaulization, Power Query.
+(https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/foodmartreport.png)
 
 # Music Store -SQL
 This project has a dataset of a music store which would like to do sales analysis of their store on the basis of the music, music artists, customers, regio etc. I have worked on this project and provided the data report on the basis of the music store data. I have used different sql codes to complete this project.
