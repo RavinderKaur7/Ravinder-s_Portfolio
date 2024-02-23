@@ -18,7 +18,7 @@ Skills: Data Cleaning, Joins, Temp Tables, Aggregate Functions, Creating Views, 
 
 # Chocolate Data project - Python
 
-In this project, I have worked on the chocolate dataset using python and find the insights using different python's powerful libraries such as numpy,pandas,matplotlib and seaborn. With pandas, I efficiently handled datasets, performed data cleaning and completed my taks related to my project. matplotlib and Seaborn helped me to tranform raw data into captivating visaulization with help graphs and charts.
+In this project, I have worked on the chocolate dataset using python and find the insights using different python's powerful libraries such as numpy,pandas,matplotlib and seaborn. With pandas, I efficiently handled datasets, performed data cleaning and completed my taks related to my project. Matplotlib and Seaborn helped me transform raw data into captivating visaulization with help of graphs and charts.
 Skills: Data Cleaning, Data Manipulating, Data Visaulization, Aggregate Functions.
 (https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/chocolate.ipynb)
 
