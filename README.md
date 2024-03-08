@@ -1,7 +1,7 @@
 # Ravinder-s_Portfolio
 # Data Analyst
 Hi, I'm Ravinder Kaur, I have an analytical background in Data/Business Analytics. I have developed a strong foundation in the data analyst feild and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data  as data analyst.
-I have recently completed Business Intelligence and Data Analytics Certificate program. During my studies, I have worked with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I have recently completed Business Intelligence and Data Analytics Certificate program. I have worked with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data cleaning, data management and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 I am also adding some of projects that I have worked on in this portfolio.
 
 # Food Mart Project - Power BI
