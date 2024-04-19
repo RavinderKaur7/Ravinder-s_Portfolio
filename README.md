@@ -7,6 +7,19 @@ I am also adding some of projects that I have worked on in this portfolio.
 # Food Mart Project - Power BI
 In this project I have worked with Food Mart store dataset to provide meaningful insights which will help store to increase their sales in particular region of a particular prodcuct.
 I have used Power BI tool to do ETL, Data cleaning, analyzing sales data, Data visaulization.
+# Data Collection and Preparation:
+I collected this data from kaggle.
+Ensured the data is clean, consistent, and properly formatted. I performed data cleaning and transformation tasks using Power Query Editor in Power BI.
+# Data Modeling:
+Desigedn a data model that reflects the relationships between different entities in your food mart, such as customers, products, sales transactions, and inventory.
+Used Power BI's modeling features to create relationships, calculated columns, and measures as needed.
+# Dashboard and Report Design:
+ Used KPIs to track, such as Total Sales, Total Orders.
+Designed interactive dashboards and reports using Power BI Desktop. I included visualizations like bar charts, pie charts, tables etc to represent data effectively.
+Utilize Power BI's formatting options to make my reports visually appealing and easy to understand.
+# Analysis and Insights:
+Use Power BI's analytics capabilities to perform deeper analysis on your data. I have used DAX (Data Analysis Expressions) to calculate Total Sales, Total Orders, customer lifetime value.
+
 Skills : ETL, Measures, DAX, KPI, Data Visaulization, Power Query.
 (https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/foodmartreport.png)
 (https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/foodmartreport2.png)
