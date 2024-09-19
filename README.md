@@ -9,7 +9,7 @@ I am also adding some of projects that I have worked on in this portfolio.
 2. Pizza Store Analysis - 
 
 # SQL Project:
-1. Music Store Analysis-
+1. Music Store Analysis- musicsql.sql
 
 
 ## Database Design:
