@@ -6,7 +6,7 @@ I am also adding some of projects that I have worked on in this portfolio.
 
 # Power BI Project: 
 1. Food Mart Store Analysis - https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/FOODMART.pbix
-2. Pizza Store Analysis - 
+2. Pizza Store Analysis - https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/pizzareport.pbix
 
 # SQL Project:
 1. Music Store Analysis- [musicsql.sql](https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/musicsql.sql)
