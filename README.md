@@ -19,5 +19,5 @@ I am also adding some of projects that I have worked on in this portfolio.
 ](https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/Telecom%20Churn%20Rate%20Dataset.xlsx)
 
 # Python
-Chocolate Data project - (https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/chocolate.ipynb)
+Chocolate Data project - [chocolate.ipynb](https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/chocolate.ipynb)
 
