@@ -35,7 +35,7 @@ Skills: Data Cleaning, Joins, Temp Tables, Aggregate Functions, Creating Views, 
 
 # Excel Projects:
 1. Call Centre Data Analysis- 
-2. Telecom Churn Analysis - 
+2. Telecom Churn Analysis - Telecom Churn Rate Dataset.xlsx
 
 # Python
 Chocolate Data project - 
