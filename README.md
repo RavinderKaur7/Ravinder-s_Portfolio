@@ -5,7 +5,7 @@ I have recently completed Business Intelligence and Data Analytics Certificate p
 I am also adding some of projects that I have worked on in this portfolio.
 
 # Power BI Project: 
-1. Food Mart Store Analysis -
+1. Food Mart Store Analysis - https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/FOODMART.pbix
 2. Pizza Store Analysis - 
 
 # SQL Project:
