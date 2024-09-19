@@ -34,7 +34,8 @@ Skills: Data Cleaning, Joins, Temp Tables, Aggregate Functions, Creating Views, 
 (https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/musicsql.sql)
 
 # Excel Projects:
-1. Call Centre Data Analysis- Project_call_centre.xlsx
+1. Call Centre Data Analysis- [Project_call_centre.xlsx
+](https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/Project_call_centre.xlsx).
 2. Telecom Churn Analysis - [Telecom Churn Rate Dataset.xlsx
 ](https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/Telecom%20Churn%20Rate%20Dataset.xlsx)
 # Python
