@@ -9,7 +9,8 @@ I am also adding some of projects that I have worked on in this portfolio.
 2. Pizza Store Analysis - 
 
 # SQL Project:
-1. Music Store Analysis- musicsql.sql
+1. Music Store Analysis- [musicsql.sql](https://github.com/RavinderKaur7/Ravinder-s_Portfolio/blob/main/musicsql.sql)
+2. Sales Analysis - 
 
 
 ## Database Design:
